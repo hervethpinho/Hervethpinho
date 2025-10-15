@@ -1,29 +1,35 @@
-<h1 align="center">👋🏽 Herveth Pinho</h1>
-<p align="center"><strong>Precision • Motion • Identity</strong></p>
+
+<p align="center">
+  <img src="https://i.ibb.co/4Sxq6kR/dev-banner.png" alt="Herveth Pinho Banner" width="800"/>
+</p>
+
+<h1 align="center">Herveth Pinho</h1>
+<p align="center"><em>Building experiences that move — clean, precise, intentional.</em></p>
 
 ---
 
 ### 🧠 About
-I build digital experiences that balance **structure and emotion**.  
-Clean visuals, subtle motion, and code that feels intentional.  
+I transform ideas into **digital experiences** that blend **motion, design, and functionality**.  
+Focused on **clean interfaces, smooth animations**, and code that communicates purpose.  
+I approach every project with precision and attention to detail — from concept to execution.
 
 ---
 
 ### 🧩 Tech Stack
 
-#### 🏗️ Core
+#### Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs" height="48" />
 </p>
 
-#### 🎨 Design
+#### Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,xd" height="48" />
 </p>
 
-#### 🧰 Tools
+#### Tools & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="48" />
 </p>
 
 ---
@@ -40,16 +46,21 @@ Clean visuals, subtle motion, and code that feels intentional.
 ---
 
 ### 🎯 Current Focus
-- Enhancing motion & minimal web interfaces  
-- Mastering JS, Python and full-stack development  
-- Building projects that blend creativity and precision  
+- Full-stack web development with **JavaScript, Python, Node.js**  
+- Interactive UI/UX with **animations and responsive design**  
+- Building projects that **blend creativity and precision**  
 
 ---
 
-### 🧃 Featured Project
+### 🧃 Featured Projects
 **DevPinho Refri**  
-An interactive soda concept built with HTML, CSS & JS.  
+Interactive concept website with **HTML, CSS & JavaScript**  
 → [View project](https://github.com/hervethpinho/devpinho-refri)
+
+**Other Projects**  
+- Minimal UI library experiments  
+- Motion-driven portfolio interfaces  
+- Automation scripts & Python utilities  
 
 ---
 
@@ -63,11 +74,12 @@ An interactive soda concept built with HTML, CSS & JS.
 
 ---
 
+### ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hervethpinho&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hervethpinho&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hervethpinho&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hervethpinho&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<p align="center"><em>“Code should look as good as it runs.”</em></p>
+<p align="center"><em>“Code should look as good as it runs — precision, style, and purpose.”</em></p>
